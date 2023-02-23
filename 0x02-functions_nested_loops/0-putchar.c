@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main -  the main function
  * _putchar - writes a single character to stdout
@@ -8,13 +8,13 @@
 
 int main(void)
 {
-        _putchar('_');
-        _putchar('p');
-        _putchar('u');
-        _putchar('t');
-        _putchar('c');
-        _putchar('h');
-        _putchar('a');
-        _putchar('r');
-        return (0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	return (0);
 }
